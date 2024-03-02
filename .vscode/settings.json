@@ -1,0 +1,16 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.detectIndentation": false,
+    "editor.guides.bracketPairs": "active",
+    "editor.guides.indentation": false,
+    "editor.lineHeight": 36,
+    "editor.links": false,
+    "editor.matchBrackets": "never",
+    "editor.renderLineHighlight": "none",
+    "editor.renderWhitespace": "all",
+    "editor.fontFamily": "Bitstream Vera Sans Mono",
+    "editor.fontSize": 20,
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4
+}
